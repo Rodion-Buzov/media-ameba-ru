@@ -11,8 +11,6 @@ app.get("/", function(request, response){
     response.render("index");
 });
 
-
-
 // подрубаем просшулку
 app.listen(3000);
 console.log(cowsay.say({
