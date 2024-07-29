@@ -1,0 +1,16 @@
+{
+  "name": "media-ameba",
+  "version": "0.0.1",
+  "description": "website",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Mox and The Annley",
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.6.0",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2"
+  }
+}
