@@ -1,4 +1,4 @@
-const cowsay = require("cowsay")
+const cowsay = require("cowsay");
 
 const express = require("express");
 const app = express();
